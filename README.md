@@ -22,6 +22,7 @@ Nome | Status | :musical_note:
 [GDG Casts](http://gdgcasts.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/gdg-casts/id953473652?mt=2)
 [Grok Podcast](http://www.grokpodcast.com/)|![Out of Date](https://img.shields.io/badge/status-out_of_date-red.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/grok-podcast/id393122038)
 [Hack 'n' Cast](http://hackncast.org/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?mt=2)
+[Hipsters](http://hipsters.tech/feed/podcast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [NodeBR Cast](https://github.com/nodebr/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|:x:
 [ONCast](https://www.oficinadanet.com.br/oncast) | ![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square) | [itunes](https://itunes.apple.com/us/podcast/oncast/id1030390532)
 [Opencast](http://tecnologiaaberta.com.br/category/opencast/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/br/podcast/opencast/id424732898?mt=2)
